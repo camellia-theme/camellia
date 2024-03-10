@@ -7,20 +7,20 @@ The Hope palette is a more saturated colourscheme with high constrast. Descripti
 
 | Label      | Hex       | RGB                  | Preview                        |
 | ---------- | --------- | -------------------- | ------------------------------ |
-| BG         | `#17181C` | `rgb(23, 24, 28)`    | ![[BG Swatch.png\|32]]         |
-| Mid BG     | `#1E1F24` | `rgb(30, 31, 36)`    | ![[Mid BG Swatch.png\|32]]     |
-| Light BG   | `#26272B` | `rgb(38, 39, 43)`    | ![[Light BG Swatch.png\|32]]   |
-| Dark Grey  | `#333438` | `rgb(51, 52, 56)`    | ![[Dark Grey Swatch.png\|32]]  |
-| Light Grey | `#8F9093` | `rgb(143, 144, 147)` | ![[Light Grey Swatch.png\|32]] |
-| Dark FG    | `#B0B1B4` | `rgb(176, 177, 180)` | ![[Dark FG Swatch.png\|32]]    |
-| Mid FG     | `#CBCCCE` | `rgb(203, 204, 206)` | ![[Mid FG Swatch.png\|32]]     |
-| FG         | `#E4E5E7` | `rgb(228, 229, 231)` | ![[FG Swatch.png\|32]]         |
-| Pink       | `#FA3867` | `rgb(250, 56, 103)`  | ![[Pink Swatch.png\|32]]       |
-| Orange     | `#F3872F` | `rgb(243, 135, 47)`  | ![[Orange Swatch.png\|32]]     |
-| Gold       | `#FEBD16` | `rgb(254, 189, 22)`  | ![[Gold Swatch.png\|32]]       |
-| Lime       | `#3FD43B` | `rgb(63, 212, 59)`   | ![[Lime Swatch.png\|32]]       |
-| Turquoise  | `#47E7CE` | `rgb(71, 231, 206)`  | ![[Turquoise Swatch.png\|32]]  |
-| Blue       | `#53ADE1` | `rgb(83, 173, 225)`  | ![[Blue Swatch.png\|32]]       |
-| Violet     | `#AD60FF` | `rgb(173, 96, 255)`  | ![[Violet Swatch.png\|32]]     |
-| Red        | `#FC3F2C` | `rgb(252, 63, 44)`   | ![[Red Swatch.png\|32]]        |
+| BG         | `#17181C` | `rgb(23, 24, 28)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/BG%20Swatch.png">           |
+| Mid BG     | `#1E1F24` | `rgb(30, 31, 36)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Mid%20BG%20Swatch.png">     |
+| Light BG   | `#26272B` | `rgb(38, 39, 43)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Light%20BG%20Swatch.png">   |
+| Dark Grey  | `#333438` | `rgb(51, 52, 56)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Dark%20Grey%20Swatch.png">  |
+| Light Grey | `#8F9093` | `rgb(143, 144, 147)` | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Light%20Grey%20Swatch.png"> |
+| Dark FG    | `#B0B1B4` | `rgb(176, 177, 180)` | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Dark%20FG%20Swatch.png">    |
+| Mid FG     | `#CBCCCE` | `rgb(203, 204, 206)` | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Mid%20FG%20Swatch.png">     |
+| FG         | `#E4E5E7` | `rgb(228, 229, 231)` | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/FG%20Swatch.png">           |
+| Pink       | `#FA3867` | `rgb(250, 56, 103)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Pink%20Swatch.png">         |
+| Orange     | `#F3872F` | `rgb(243, 135, 47)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Orange%20Swatch.png">       |
+| Gold       | `#FEBD16` | `rgb(254, 189, 22)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Gold%20Swatch.png">         |
+| Lime       | `#3FD43B` | `rgb(63, 212, 59)`   | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Lime%20Swatch.png">         |
+| Turquoise  | `#47E7CE` | `rgb(71, 231, 206)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Turquoise%20Swatch.png">    |
+| Blue       | `#53ADE1` | `rgb(83, 173, 225)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Blue%20Swatch.png">         |
+| Violet     | `#AD60FF` | `rgb(173, 96, 255)`  | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Violet%20Swatch.png">       |
+| Red        | `#FC3F2C` | `rgb(252, 63, 44)`   | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Red%20Swatch.png">          |
 
