@@ -1,0 +1,26 @@
+# Camellia Hope Dark
+[colors]
+foreground = '#E4E5E7'
+background = '#17181C'
+cursor_fg = '#E4E5E7'
+cursor_border = '#E4E5E7'
+ansi = [
+'#17181C',
+'#FA3867',
+'#3FD43B',
+'#FEBD16',
+'#53ADE1',
+'#AD60FF',
+'#47E7CE',
+'#B0B1B4'
+]
+brights = [
+'#26272B',
+'#FA3867',
+'#3FD43B',
+'#FEBD16',
+'#53ADE1',
+'#AD60FF',
+'#47E7CE',
+'#E4E5E7'
+]

@@ -1,0 +1,26 @@
+# Camellia Hope Light
+[colors]
+foreground = '#17181C'
+background = '#E4E5E7'
+cursor_fg = '#17181C'
+cursor_border = '#17181C'
+ansi = [
+'#B0B1B4',
+'#FA3867',
+'#3FD43B',
+'#FEBD16',
+'#53ADE1',
+'#AD60FF',
+'#47E7CE',
+'#17181C'
+]
+brights = [
+'#E4E5E7',
+'#FA3867',
+'#3FD43B',
+'#FEBD16',
+'#53ADE1',
+'#AD60FF',
+'#47E7CE',
+'#26272B'
+]

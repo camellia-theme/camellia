@@ -5,8 +5,8 @@
 # Hope Palette
 The Hope palette is a more saturated colourscheme with high constrast. Description is work in progress.
 
-| Label      | Hex       | RGB                  | Preview                        |
-| ---------- | --------- | -------------------- | ------------------------------ |
+| Label      | Hex       | RGB                  | Preview                                                                                                                                           |
+| ---------- | --------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BG         | `#17181C` | `rgb(23, 24, 28)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/BG%20Swatch.png">           |
 | Mid BG     | `#1E1F24` | `rgb(30, 31, 36)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Mid%20BG%20Swatch.png">     |
 | Light BG   | `#26272B` | `rgb(38, 39, 43)`    | <img align="center" width="32" height="32" src="https://raw.githubusercontent.com/camellia-theme/camellia/main/assets/Light%20BG%20Swatch.png">   |
